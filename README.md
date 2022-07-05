@@ -1,1 +1,1 @@
-A Python script that takes a system log as input then creates csv file with certain data filtered out. The csv file is then covnerted into and HTML file to be viewed.
+A Python script that takes a system log file as input, then filters out data according to specific criteria using RegEx and wrties the results to a csv file. The csv file is then covnerted to an HTML to be viewed.
